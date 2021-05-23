@@ -13,7 +13,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 ![Screenshot!](./Images/Percentage_Five_Star_Reviews.png)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
  ![Screenshot!](./Images/Percentage_Paid_Reviews.png)
- ![Screenshot!](./Images/Percentage_UnPaid_Reviews.png)
+ ![Screenshot!](./Images/Percentage_Unpaid_Reviews.png)
 
 
 ## Summary: 
