@@ -10,9 +10,9 @@ Using bulleted lists and images of DataFrames as support, address the following 
 * How many Vine reviews and non-Vine reviews were there?
  ![Screenshot!](./Images/Total_Reviews.png)
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-![Screenshot!](./Images/Total_5_Start_Reviews.png)
+![Screenshot!](./Images/Total_5_Star_Reviews.png)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
- ![Screenshot!](./Images/Percentage_5_Star_Reviews.png)
+ ![Screenshot!](./Images/Percentage_5_Start_Reviews.png)
 
 
 
