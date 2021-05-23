@@ -8,8 +8,13 @@ The overall objective of this project was to look at Amazon reviews regarding Au
 Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
+ ![Screenshot!](./Images/Total_Reviews.png)
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+![Screenshot!](./Images/Percentage_Five_Star_Reviews.png)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+ ![Screenshot!](./Images/Percentage_Paid_Reviews.png)
+ ![Screenshot!](./Images/Percentage_UnPaid_Reviews.png)
+
 
 ## Summary: 
 Looking at the results, it is safe to assume that the data does not appear to have a more favorable bias because the percentages are both not significantly different thant the 52%, the paid are slightly higher at 53% and the unpaid reviews are slightly lower at 48%, but the difference is not enough to suggest a bias one way or the other. The next step would be to analyze another data set from the Amazon Reviews and see if it follows the same pattern or if there are any significant differences. 
